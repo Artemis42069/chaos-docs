@@ -73,12 +73,6 @@ Our goal, ultimately, is to spread endless war by facilitating the means to war,
 #### Your Duty
 Your duty as an soldier of Chaos Indivisvm is to combat the furry menace, to safeguard our land and to ensure the security of our group.
 
-#### MUMBLE
-MUMBLE ADDRESS IS : `ts.hadettheundying.com`
-
-MUMBLE IS OUR PRIMARY LINE OF COMMUNICATION. STAYING IN MUMBLE DURING YOUR DOWNTIME IS THE BEST WAY TO KNOW WHEN WE ARE DOING STUFF!
-
-
 #### Activity:
 You are expected, upon joining, to take part in at least 3 raids ( attacks on other sims ) or defenses each week.
 
